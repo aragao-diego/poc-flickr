@@ -1,0 +1,25 @@
+{
+  "name": "poc-flickr",
+  "version": "0.0.1",
+  "description": "Poc angularJS para consulta no flickr",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aragao-diego/poc-flickr.git"
+  },
+  "keywords": [
+    "flickr",
+    "angularjs",
+    "test",
+    "testing"
+  ],
+  "author": "Diego Aragao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aragao-diego/poc-flickr/issues"
+  },
+  "homepage": "https://github.com/aragao-diego/poc-flickr#readme"
+}
